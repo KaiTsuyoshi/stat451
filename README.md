@@ -1,4 +1,2 @@
-Stat451
-
-Work done for Stat 451
-Mostly utilized machine learning and python 
+Work done in Stat 451
+Worked primarily in Python, developed machine learning algorithms and statistical models
